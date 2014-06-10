@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'jquery-mousewheel_rails/version'
+require 'jquery_mousewheel_rails/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "jquery-mousewheel_rails"
+  spec.name          = "jquery_mousewheel_rails"
   spec.version       = JqueryMousewheelRails::VERSION
   spec.authors       = ["Guy Israeli"]
   spec.email         = ["guy.israeli@gmail.com"]
