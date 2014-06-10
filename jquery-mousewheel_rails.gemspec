@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Guy Israeli"]
   spec.email         = ["guy.israeli@gmail.com"]
   spec.summary       = %q{Rails asset-pipeline compatible gem wrapper for jQuery-Mousewheel.js}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{Rails asset-pipeline compatible gem wrapper for jQuery-Mousewheel.js}
   spec.homepage      = ""
   spec.license       = "MIT"
 

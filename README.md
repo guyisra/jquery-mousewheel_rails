@@ -1,7 +1,6 @@
-# Jquery::MousewheelRails
+# JqueryMousewheelRails
 
-TODO: Write a gem description
-
+Rails asset-pipeline compatible gem wrapper for jQuery-Mousewheel.js
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -18,8 +17,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+add this to application.js manifest
 
+    //= require jquery-mousewheel
+
+    
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/jquery-mousewheel_rails/fork )
