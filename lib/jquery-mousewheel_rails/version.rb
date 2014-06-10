@@ -1,5 +1,3 @@
-module Jquery
-  module MousewheelRails
+module JqueryMousewheelRails
     VERSION = "3.1.11"
-  end
 end
