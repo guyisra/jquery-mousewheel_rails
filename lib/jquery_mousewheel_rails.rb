@@ -1,4 +1,4 @@
-require "jquery-mousewheel_rails/version"
+require "jquery_mousewheel_rails/version"
 
 module JqueryMousewheelRails
    module Rails
