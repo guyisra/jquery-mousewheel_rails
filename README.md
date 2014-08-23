@@ -6,7 +6,7 @@ see more info on https://github.com/brandonaaron/jquery-mousewheel
 
 Add this line to your application's Gemfile:
 
-    gem 'jquery-mousewheel_rails'
+    gem 'jquery_mousewheel_rails'
 
 And then execute:
 
@@ -14,13 +14,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jquery-mousewheel_rails
+    $ gem install jquery_mousewheel_rails
 
 ## Usage
 
 add this to application.js manifest
 
-    //= require jquery-mousewheel
+    //= require jquery.mousewheel
 
 
 ## Contributing
